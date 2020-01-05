@@ -1,0 +1,1 @@
+figure out how to compile the .jar file so the .so / .dll file is included in it
